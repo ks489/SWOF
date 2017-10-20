@@ -7,6 +7,7 @@ namespace SWOF.Service.Enums
 {
     public enum DatabaseTypes
     {
-        ScheduleConnection = 0
+        ScheduleConnection = 0,
+        UsersConnection = 1
     }
 }
