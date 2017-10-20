@@ -8,6 +8,6 @@ namespace SWOF.Service.Models
     public class Schedule
     {
         public DateTime Date { get; set; }
-        Tuple<Shift, Shift> DayShifts { get; set; } //May need to change to a collection
+        public Tuple<Shift, Shift> Shifts { get; set; } //May need to change to a collection
     }
 }
