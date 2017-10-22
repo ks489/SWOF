@@ -38,6 +38,8 @@ namespace SWOF.Service
             services.AddSingleton<IEngineerService, EngineerService>();
             //Repository
             services.AddSingleton<IEngineerRepository, EngineerRepository>();
+            services.AddSingleton<IShiftRepository, ShiftRepository>();
+            services.AddSingleton<IScheduleRepository, ScheduleRepository>();
             //Connections
             services.AddSingleton<IConnection, ConnectionFactory>();
         }

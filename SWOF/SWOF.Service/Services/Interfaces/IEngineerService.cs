@@ -10,5 +10,13 @@ namespace SWOF.Service.Services.Interfaces
     {
         IEnumerable<Engineer> Get();
         Engineer Get(int id);
+
+        bool IsDoubledBooked();
+
+        bool IsConsecutiveBooked();
+        IEnumerable<Engineer> GetAvailableEngineers();
+        bool HasCompletedSchedule(Engineer engineer);
+        bool HasEngineerShiftToday();
+        bool HasEngineerShiftTomorrow();
     }
 }

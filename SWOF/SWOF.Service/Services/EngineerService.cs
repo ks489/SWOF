@@ -12,10 +12,12 @@ namespace SWOF.Service.Services
     {
         #region Private Variables
         IEngineerRepository _engineerRepository;
+        IScheduleService _scheduleService;
         #endregion
-        public EngineerService(IEngineerRepository engineerRepository)
+        public EngineerService(IEngineerRepository engineerRepository, IScheduleService scheduleService)
         {
             _engineerRepository = engineerRepository;
+            _scheduleService = scheduleService;
         }
         public IEnumerable<Engineer> Get()
         {
@@ -23,6 +25,37 @@ namespace SWOF.Service.Services
         }
 
         public Engineer Get(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IEnumerable<Engineer> GetAvailableEngineers()
+        {
+            //var scheduleList = _scheduleService.Get().Where(x => x.Date == new DateTime(DateTime.Now.Day, DateTime.Now.Month, DateTime.Now.Year));            
+            
+        }
+
+        public bool HasCompletedSchedule(Engineer engineer)
+        {
+            return false;
+        }
+
+        public bool HasEngineerShiftToday()
+        {
+            _
+        }
+
+        public bool HasEngineerShiftTomorrow()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsConsecutiveBooked()
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsDoubledBooked()
         {
             throw new NotImplementedException();
         }

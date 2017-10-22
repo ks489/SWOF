@@ -42,7 +42,7 @@ namespace SWOF.Service.Repositories
         public IEnumerable<Engineer> Get()
         {
             IEnumerable<Engineer> list;
-            using (IDbConnection db = _connection.GetConnection(DatabaseTypes.ScheduleConnection))
+            using (IDbConnection db = _connection.GetConnection(DatabaseTypes.UsersConnection))
             {
                 list = UsersDatabase.UserTable.table;
             }

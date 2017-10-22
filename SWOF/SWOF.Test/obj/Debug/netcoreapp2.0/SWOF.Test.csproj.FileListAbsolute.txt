@@ -12,3 +12,17 @@ D:\Projects\Other\Support Wheel of Fate\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\S
 D:\Projects\Other\Support Wheel of Fate\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.AssemblyInfo.cs
 D:\Projects\Other\Support Wheel of Fate\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.dll
 D:\Projects\Other\Support Wheel of Fate\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.pdb
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\SWOF.Test.deps.json
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\SWOF.Test.runtimeconfig.json
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\SWOF.Test.runtimeconfig.dev.json
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\SWOF.Test.dll
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\bin\Debug\netcoreapp2.0\SWOF.Test.pdb
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.csprojResolveAssemblyReference.cache
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.csproj.CoreCompileInputs.cache
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.AssemblyInfoInputs.cache
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.AssemblyInfo.cs
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.dll
+D:\Projects\Other\SWOF\SWOF\SWOF.Test\obj\Debug\netcoreapp2.0\SWOF.Test.pdb
